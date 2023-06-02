@@ -13,5 +13,8 @@ You may also see any lint errors in the console.
 
 # Screenshot
 ![Capture8](https://github.com/mai928/youtub_clone/assets/58111868/45e8e056-f00d-4b37-a532-d6ed871aa569)
+ 
+ # Live Demo 
+ Open [https://youtub-clone-cb9c49.netlify.app/](https://youtub-clone-cb9c49.netlify.app/) to view it in your browser.
 
 
